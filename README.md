@@ -25,16 +25,26 @@ To use this code one can download the dataset from the above URL and use '[tagge
 5. Streamlit for basic visualization of the data.
 
 # Folder Structure
-├── config.py \\
-├── dataloader.py \\
-├── dataset.py \\
-├── engine.py \\
-├── __init__.py \\
-├── main.py \\
-├── predict.py \\
-├── rsics_dataset \\
-├── runs \\
-├── trainer.py \\
+├── config.py
+
+├── dataloader.py
+
+├── dataset.py 
+
+├── engine.py 
+
+├── __init__.py
+
+├── main.py 
+
+├── predict.py 
+
+├── rsics_dataset 
+
+├── runs 
+
+├── trainer.py 
+
 
 
 # How to run
