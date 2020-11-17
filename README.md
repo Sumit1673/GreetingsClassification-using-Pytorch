@@ -55,6 +55,5 @@ do: python main.py
 # Training Logs:
 Best Training results achieved 
 ![Training Accuracy](https://github.com/Sumit1673/GreetingsClassification-using-Pytorch/blob/main/training_acc?raw=true)
-https://github.com/Sumit1673/GreetingsClassification-using-Pytorch/blob/main/training_acc
 
 
