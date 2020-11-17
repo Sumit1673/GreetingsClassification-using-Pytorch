@@ -57,6 +57,6 @@ Best Training results achieved
 ![Training Accuracy](https://github.com/Sumit1673/GreetingsClassification-using-Pytorch/blob/main/training_acc?raw=true)
 
 # Data Visualization using Streamlit
-![Data Vis 1] (https://github.com/Sumit1673/GreetingsClassification-using-Pytorch/blob/main/stream1.png?raw=true)
-![Data Vis 2] (https://github.com/Sumit1673/GreetingsClassification-using-Pytorch/blob/main/stream2.png?raw=true)
-![Data Vis 3] (https://github.com/Sumit1673/GreetingsClassification-using-Pytorch/blob/main/stream3.png?raw=true)
+![Data Vis 1](https://github.com/Sumit1673/GreetingsClassification-using-Pytorch/blob/main/stream1.png?raw=true)
+![Data Vis 2](https://github.com/Sumit1673/GreetingsClassification-using-Pytorch/blob/main/stream2.png?raw=true)
+![Data Vis 3](https://github.com/Sumit1673/GreetingsClassification-using-Pytorch/blob/main/stream3.png?raw=true)
