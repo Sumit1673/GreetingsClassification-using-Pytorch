@@ -51,3 +51,9 @@ To use this code one can download the dataset from the above URL and use '[tagge
 Before running the main.py file go through the config.py file and check if any parameters you would like to adjust.
 
 do: python main.py
+
+# Training Logs:
+Best Training results achieved 
+![Training Accuracy](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+
